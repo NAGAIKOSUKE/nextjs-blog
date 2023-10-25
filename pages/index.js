@@ -19,9 +19,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>[Penguin Introduction]</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (I'm Frosty, a jolly penguin from Antarctica. I love icy adventures, belly slides, and dancing under the Southern Lights. Join me for frosty fun! 🐧❄️🎉{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
